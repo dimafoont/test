@@ -1,1 +1,1 @@
-//script for new branch add-feature1 seconf commit
+//script for new branch add-feature1 second commit
